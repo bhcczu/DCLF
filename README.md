@@ -1,5 +1,5 @@
 # DCLF
-DCLF model 
+DCLF model Demo(UC)
 This Matlab code implements the DCLF. Please click "Run" button to see the classification accuracy. 
 
 1.Put the UC dataset in the 21class directory;
